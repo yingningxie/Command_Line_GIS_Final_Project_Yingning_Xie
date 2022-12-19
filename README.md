@@ -1,7 +1,7 @@
 # Philadelphia Bike Network Converage for Urban Agriculture and Community Gardens
 
 ## 1. Introduction
-Urban Agriculture has been advertised as a nature-based solution to climate change. Many urban agriculture programs are also used to promote citizen participation and community cohesion. Meanwhile, as e-bikes get trendy recently, its benefits have attracted great attention. For instance, compared with conventional bikes, e-bikes travel faster, and longer distance. It has also been found that e-bikes might could help to promote social equity, as it might be a mobility resource that could be more practical than convential bikes, but still affordable for low-income communities.
+Urban Agriculture has been advertised as a nature-based solution to climate change. Many urban agriculture programs are also used to promote citizen participation and community cohesion. Meanwhile, as e-bikes get trendy recently, its benefits have attracted great attention. For instance, compared with conventional bikes, e-bikes travel faster, and longer distance. It has also been found that e-bikes could help to promote social equity, as it might be a mobility resource that could be more practical than convential bikes, but still affordable for low-income communities.
 
 This project aims to look at the interaction between the Urban Agriculture Programs and bike network coverage in the city of Philadelphia. Combined with census data, such as population density, median household income, and percent of non-white population by census tract, the project will showcase the distribution of urban agricutlure and community gardens in Philadelphia, and how easily they could be accessed by bikes and ebikes, to provide potential equity implications.
 
