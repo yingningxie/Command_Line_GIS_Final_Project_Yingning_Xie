@@ -5,7 +5,7 @@ I used the datasets from "OpenDataPhilly", for Urban Agricutlure Programs (2021)
 
 Urban Agricutlure Programs, Community Gardens, and Bike Network were downloaded as GeoJSON, and read into Google Colab. I joined the two datasets "Urban Agricutlure Programs" and "Community Gardens", and created a column "type".
 
-I also joined "Bike Network" with census data, which I cut to Philadelphia level, and grouped and sumed Bike Network shape_length by census tract, and calculated the density by area.
+I also joined "Bike Network" with census data, which I selected to Philadelphia county, and grouped and sumed Bike Network shape_length by census tract, and calculated the density by area.
 
 ### Figure 1: Population Density
 ![Figure 1](https://user-images.githubusercontent.com/118480366/208327547-e3b249ed-3b55-4839-8ef8-e2b20a1e4666.png)
