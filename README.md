@@ -13,14 +13,17 @@ Three maps are presented: Population Density, Median Household Income, and Bike 
 
 ### Figure 1: Population Density
 We could see from the map that high population density areas are in central Philadelphia and its surrounding areas. Some tracts do not have population data, such as airports.
+
 ![Figure 1](https://user-images.githubusercontent.com/118480366/208327547-e3b249ed-3b55-4839-8ef8-e2b20a1e4666.png)
 
 ### Figure 2: Median Household Income
 Higher income households seem to be located in central Philadelphia, northwest and northeast Philadelphia.North, lower north, upper north, west, university southwest seem to have higher concentration of relatively low-income households.
+
 ![Figure 2](https://user-images.githubusercontent.com/118480366/208328030-9f4561d2-be75-4980-8d3a-fb7a35248687.png)
 
 ### Figure 3: Bike Network Density
 Central Philadelphia, west, university southwest have the overall highest bike network density. 
+
 ![Figure 3](https://user-images.githubusercontent.com/118480366/208328097-a3cd31b0-231c-4328-94f6-7616a6b12e0a.png)
 
 ### 4. Interactive Map: Urban Agriculture Programs and Community Gardens
@@ -30,4 +33,4 @@ From the initial map we could see the distribution of the coverage of bikes and 
 <iframe src="final.html" height="1200" width="105%"></iframe>
 
 ### 5. Conclusion
-Overall, from the maps we could have an overall idea of the interaction between bike network and urban agriculture and community gardens in Philadelphia. We could also see the difference between conventional bikes and e-bikes. However, since the bike/e-bike buffers are not built based on protected bike lanes, it could have limitation because unprotected bike lanes could be a barrier for bicycle use. 
+Overall, from the maps we could have an overall idea of the interaction between bike network and urban agriculture/community gardens in Philadelphia. We could also see the differences between conventional bikes and e-bikes. However, since the bike/e-bike buffers are not built based on protected bike lanes, it could have limitation because unprotected bike lanes could be a barrier for bicycle use. 
