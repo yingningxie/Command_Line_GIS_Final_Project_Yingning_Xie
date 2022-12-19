@@ -1,7 +1,5 @@
 # Philadelphia Bike Network Converage for Urban Agriculture and Community Gardens
 
-***December 19th, 2022 | Yingning Xie | RUID: 209003140***
-
 ## 1. Introduction
 Urban Agriculture has been advertised as a nature-based solution to climate change. Many urban agriculture programs are also used to promote citizen participation and community cohesion. Meanwhile, as e-bikes get trendy recently, its benefits have attracted great attention. For instance, compared with conventional bikes, e-bikes travel faster, and longer distance. It has also been found that e-bikes could help to promote social equity, as it might be a mobility resource that could be more practical than convential bikes, but still affordable for low-income communities.
 
