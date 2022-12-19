@@ -29,7 +29,7 @@ Central Philadelphia, west, university southwest have the overall highest bike n
 ### 4. Interactive Map: Urban Agriculture Programs and Community Gardens
 Most urban agriculture and community gardens in Philadelphia are located in central or south of the city. If we turn off other layers and turn on the layer "percent of non-white population", we could see a pattern of distribution of urban agriculture programs and community gardens in comparison with non-white population distribution. Meanwhile, we could combine the census information from tooltips to get an idea of how the distribution could be related to household income or population density.
 
-From the initial map we could see the distribution of the coverage of bikes and e-bikes within 10 minutes of travel from the urban agriculture or community gardens. It is clear that e-bikes could better facilitate the connectivity of many more urban agriculture and community gardens. Also, if we just compare the census layer, and the bike/e-bike buffer, we could explore the coverage of bike network for census tracts that have high non-white population.
+From the initial map we could see the distribution of the coverage of bikes and e-bikes within 10 minutes of travel from the urban agriculture or community gardens. It is clear that e-bikes could better facilitate the connectivity of many more urban agriculture and community gardens. Also, if we just compare the census layer and the bike/e-bike buffer, we could explore the coverage of bike network for census tracts that have high non-white population.
 <iframe src="final.html" height="1200" width="105%"></iframe>
 
 ### 5. Conclusion
