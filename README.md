@@ -17,7 +17,7 @@ We could see from the map that high population density areas are in central Phil
 ![Figure 1](https://user-images.githubusercontent.com/118480366/208327547-e3b249ed-3b55-4839-8ef8-e2b20a1e4666.png)
 
 ### Figure 2: Median Household Income
-Higher income households seem to be located in central Philadelphia, northwest and northeast Philadelphia.North, lower north, upper north, west, university southwest seem to have higher concentration of relatively low-income households.
+Higher income households seem to be located in central Philadelphia, northwest and northeast Philadelphia. North, lower north, upper north, west, university southwest seem to have higher concentration of relatively low-income households.
 
 ![Figure 2](https://user-images.githubusercontent.com/118480366/208328030-9f4561d2-be75-4980-8d3a-fb7a35248687.png)
 
