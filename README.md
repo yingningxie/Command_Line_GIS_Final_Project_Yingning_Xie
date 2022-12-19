@@ -1,7 +1,7 @@
 # Philadelphia Bike Network Converage for Urban Agriculture and Community Gardens
 
 ## Description of Datasets
-I used the datasets from "OpenDataPhilly", for Urban Agricutlure Programs (2021), Community Gardens (2021), and Bike Network (2014). I used US Census Data (2019) for population and household Income, and the calculation of population density,as well as the bike network density. 
+I used the datasets from "OpenDataPhilly", for Urban Agricutlure Programs (2021), Community Gardens (2021), and Bike Network (2014). I also used US Census Data (2019) for population and household Income, and the calculation of population density, as well as the bike network density. 
 
 Urban Agricutlure Programs, Community Gardens, and Bike Network were downloaded as GeoJSON, and read into Google Colab. I joined the two datasets "Urban Agricutlure Programs" and "Community Gardens", and created a column "type".
 
